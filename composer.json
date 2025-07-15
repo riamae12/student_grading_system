@@ -1,0 +1,16 @@
+{
+    "name": "palata/gs",
+    "description": "Basic Student Grading System",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Palata\\Gs\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "palata"
+        }
+    ],
+    "require": {}
+}
